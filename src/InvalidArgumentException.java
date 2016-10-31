@@ -1,11 +1,11 @@
-/********************************
- * COMP90041 Project C			*
- * File : AIPlayer.java			*
- * Author : Renyi Hou			*
- * Student ID : renyih			*
- * Student Number : 764696		*
- * Date : 22/5/2016				*
-*********************************/
+/****************************************
+ * COMP90041 Project C					*
+ * File : InvalidArgumentException.java	*
+ * Author : Renyi Hou					*
+ * Student ID : renyih					*
+ * Student Number : 764696				*
+ * Date : 22/5/2016						*
+*****************************************/
 
 public class InvalidArgumentException extends Exception
 {

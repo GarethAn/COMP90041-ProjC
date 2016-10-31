@@ -1,6 +1,6 @@
 /********************************
  * COMP90041 Project C			*
- * File : AIPlayer.java			*
+ * File : TicTacToe.java		*
  * Author : Renyi Hou			*
  * Student ID : renyih			*
  * Student Number : 764696		*
